@@ -1,0 +1,10 @@
+{
+  "name": "serverless-nerd",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Code borrowed from the React tutorial.",
+  "main": "server.js",
+  "dependencies": {
+    "documentdb": "^1.10.0"
+  }
+}
