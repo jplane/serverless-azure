@@ -1,4 +1,5 @@
 ## A simple Node.js API for hosting on Azure Functions
+## Walkthrough:  https://www.youtube.com/watch?v=8H4mROvgD9g
 
 1. log into the Azure portal... https://portal.azure.com (you'll need to sign up for a subscription if you don't already have one)
 
